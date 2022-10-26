@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2 >Hi 👋, I'm Jegede Nifemi.</h2>
 <h3 >A passionate frontend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on [Blogga](https://github.com/jegedenifemi/Team6-Blog)
+- 🔭 I’m currently working on [Blogga](https://github.com/jegedenifemi/blogga-team6)
 
 - 🌱 I’m currently learning **TailwindCSS, JavaScript**
 
